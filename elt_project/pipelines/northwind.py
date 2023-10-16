@@ -14,4 +14,4 @@ if __name__ == "__main__":
 
     airbyte_client = AirbyteClient(server_name=AIRBYTE_SERVER_NAME, username=AIRBYTE_USERNAME, password=AIRBYTE_PASSWORD)
     if airbyte_client.valid_connection(): 
-        airbyte_client.trigger_sync(connection_id='a8119660-0a74-4428-813a-f550bfc9cec6')
+        airbyte_client.trigger_sync(connection_id='f8e2c814-470e-4c66-9ff6-2d38aa987b0f')
