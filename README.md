@@ -40,6 +40,7 @@ The Transform-Load step was orchestrated using Databricks Workflow run on the cl
 
 ![Alt text](image-1.png)
 
+![Alt text](northwinds_mgmt_review.png)
 
 ## 6. Task Breakdown:
 
